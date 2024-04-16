@@ -1,0 +1,19 @@
+header {
+    border: 10px solid red;
+    padding: 10px;
+}
+div{
+    display: inline;
+}
+.imagen{
+    width: 50%;
+    margin-left: 0px;
+}
+img{
+    width:100px;
+}
+.ref{
+    border: 1px solid purple;
+    margin-left: 800px;
+}
+
